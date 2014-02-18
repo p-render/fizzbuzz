@@ -16,3 +16,5 @@ and in all other cases return the number (as a string).**
 
 Lots of assistance provide by Cris Ewing ([cewing](https://github.com/cewing)) with the extensible 
 dictionary related version.
+
+Have Fun.
